@@ -62,3 +62,9 @@ class BankATM:
         self.show_menu()
 
 obj1=BankATM()
+obj1.set_pin()
+
+def sum():
+    pass
+
+sum()
